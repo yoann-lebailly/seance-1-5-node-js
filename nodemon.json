@@ -1,5 +1,5 @@
 {
   "ignore": ["storage/*.json", "*.log"],
-  "watch": ["functions/*.js", "app.js", "**/*.js"],
+  "watch": ["**/*.js"],
   "ext": "js,ts"
 }
